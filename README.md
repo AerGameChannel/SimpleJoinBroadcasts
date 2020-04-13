@@ -6,4 +6,4 @@ An EXILED plugin for SCP:Secret Laboratory, that allows you to make your own joi
 | --- | --- | --- | --- |
 | simplejbc_enable | Bool | true | Enable/Disable plugin (developing, at this moment it won't do anything) |
 | simplejbc_joinmessage | String | Welcome to the server! | Join message |
-| simplejbc_time | Int | 10 | Join message time |
+| simplejbc_time | Int | 15 | Join message time |
