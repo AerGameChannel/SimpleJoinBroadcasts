@@ -1,5 +1,5 @@
 # SimpleJoinBroadcasts
-An EXILED plugin for SCP:Secret Laboratory, that allows to make your own join broadcasts.
+An EXILED plugin for SCP:Secret Laboratory, that allows you to make your own join broadcasts.
 
 # Configs
 | Option | Type | Default Value | Description |
