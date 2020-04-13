@@ -8,6 +8,8 @@ namespace SimpleJoinBC
         public override void OnEnable()
         {
             Configs.Reload();
+            if (!Configs.sjbc_enable) return;
+
             eventHandlers = new EventHandlers();
             Events.PlayerJoinEvent += eventHandlers.PlayerJoined;
         }
