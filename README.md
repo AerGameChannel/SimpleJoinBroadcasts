@@ -6,4 +6,3 @@ An EXILED plugin for SCP:Secret Laboratory, that allows to make your own join br
 | --- | --- | --- | --- |
 | simplejbc_joinmessage | String | Welcome to the server! | Join message |
 | simplejbc_time | Int | 10 | Join message time |
-| --- | --- | --- | --- |
